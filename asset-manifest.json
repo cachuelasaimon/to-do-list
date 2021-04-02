@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cachuelasaimon/to-do-list/static/css/main.a908f889.chunk.css",
+    "main.js": "/cachuelasaimon/to-do-list/static/js/main.5292c89f.chunk.js",
+    "main.js.map": "/cachuelasaimon/to-do-list/static/js/main.5292c89f.chunk.js.map",
+    "runtime-main.js": "/cachuelasaimon/to-do-list/static/js/runtime-main.bc836bda.js",
+    "runtime-main.js.map": "/cachuelasaimon/to-do-list/static/js/runtime-main.bc836bda.js.map",
+    "static/js/2.7676693b.chunk.js": "/cachuelasaimon/to-do-list/static/js/2.7676693b.chunk.js",
+    "static/js/2.7676693b.chunk.js.map": "/cachuelasaimon/to-do-list/static/js/2.7676693b.chunk.js.map",
+    "static/js/3.0c5d6d9f.chunk.js": "/cachuelasaimon/to-do-list/static/js/3.0c5d6d9f.chunk.js",
+    "static/js/3.0c5d6d9f.chunk.js.map": "/cachuelasaimon/to-do-list/static/js/3.0c5d6d9f.chunk.js.map",
+    "index.html": "/cachuelasaimon/to-do-list/index.html",
+    "static/css/main.a908f889.chunk.css.map": "/cachuelasaimon/to-do-list/static/css/main.a908f889.chunk.css.map",
+    "static/js/2.7676693b.chunk.js.LICENSE.txt": "/cachuelasaimon/to-do-list/static/js/2.7676693b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc836bda.js",
+    "static/js/2.7676693b.chunk.js",
+    "static/css/main.a908f889.chunk.css",
+    "static/js/main.5292c89f.chunk.js"
+  ]
+}
